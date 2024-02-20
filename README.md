@@ -1,5 +1,5 @@
 # Piano-Simulator-Noise-Cancellation
-### Python script that generates music, adds noise and removes it .
+### Python script that generates music, adds noise, and removes it .
 ~~~
 X(t) is the original signal in time domain 
 Xn(t) is the signal with noise 
